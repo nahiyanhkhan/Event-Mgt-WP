@@ -1,0 +1,45 @@
+jQuery(document).ready(function($) {
+    // Toggle view
+    $('.view-toggle .toggle-btn').on('click', function() {
+        var $eventList = $('.event-list');
+        var $toggleBtn = $(this);
+        
+        if ($eventList.hasClass('grid-view')) {
+            $eventList.removeClass('grid-view').addClass('list-view');
+            $toggleBtn.text('Switch to Grid View');
+        } else {
+            $eventList.removeClass('list-view').addClass('grid-view');
+            $toggleBtn.text('Switch to List View');
+        }
+    });
+
+    // Filter function
+    function filterEvents() {
+        var selectedCategory = $('#category-filter').val();
+        var selectedDate = $('#date-filter').val();
+
+        $('.event-item').each(function() {
+            var $item = $(this);
+            var itemCategory = $item.data('category');
+            var itemDate = $item.data('date');
+
+            var categoryMatch = selectedCategory === 'all' || 
+                                itemCategory === selectedCategory || 
+                                (selectedCategory === 'Others' && itemCategory !== 'Conference' && itemCategory !== 'Exhibition');
+
+            var dateMatch = !selectedDate || itemDate === selectedDate;
+
+            if (categoryMatch && dateMatch) {
+                $item.show();
+            } else {
+                $item.hide();
+            }
+        });
+    }
+
+    // Category filter
+    $('#category-filter').on('change', filterEvents);
+
+    // Date filter
+    $('#date-filter').on('change', filterEvents);
+});

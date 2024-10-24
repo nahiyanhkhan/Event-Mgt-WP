@@ -1,0 +1,750 @@
+# Copyright (C) 2024 classictemplate
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Classic Events 0.5.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/classic-events\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-11T12:56:20+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: classic-events\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Classic Events"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.theclassictemplates.com/products/free-event-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Classic Events is a versatile and elegant WordPress theme designed to meet the needs of event organizers, conference planners, and individuals hosting various gatherings. Its timeless design, coupled with modern features, makes it a perfect choice for showcasing events of any scale. The theme can be used by Weddings, Conferences, Corporate Events, Parties, Seminars, Trade Shows, Banquets, Galas, Networking, Fundraisers, Anniversaries, Launches, Concerts, Festivals, Exhibitions. At first glance, the Classic Events theme exudes sophistication with its clean layout and minimalist design. The theme offers a professional and polished appearance, making it suitable for a wide range of events, from corporate conferences to intimate gatherings. One of the standout features of the Classic Events theme is its flexibility. With customizable templates and layout options, users can easily tailor the theme to suit their specific event requirements. Whether showcasing speaker profiles, agenda details, or ticketing information, the theme offers ample opportunities for customization. Moreover, the Classic Events theme is designed with user experience in mind. Its intuitive navigation and user-friendly interface ensure that visitors can easily find the information they need, whether browsing on desktop or mobile devices. This seamless experience contributes to increased engagement and attendance for events. Additionally, the Classic Events theme comes equipped with essential features to streamline event management tasks. From built-in registration forms to integration with popular event management plugins, organizers have the tools they need to efficiently manage event logistics and registrations."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "classictemplate"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.theclassictemplates.com/"
+msgstr ""
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....Don't worry... it happens to the best of us."
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:17
+#: template-parts/post/content-audio.php:77
+#: template-parts/post/content-gallery.php:75
+#: template-parts/post/content-image.php:74
+#: template-parts/post/content-single.php:37
+#: template-parts/post/content-video.php:77
+#: template-parts/post/content.php:74
+#: templates/template-full-width.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:21
+#: template-parts/post/content-single.php:44
+msgid "Edit"
+msgstr ""
+
+#: footer.php:26
+msgid "Events WordPress Theme"
+msgstr ""
+
+#: footer.php:35
+msgid "TOP"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:90
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:101
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:119
+msgid "Footer"
+msgstr ""
+
+#: functions.php:120
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:128
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Sidebar for WooCommerce shop pages"
+msgstr ""
+
+#: functions.php:137
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:138
+msgid "Sidebar for single product pages"
+msgstr ""
+
+#: functions.php:255
+#: inc/upgrade-to-pro.php:10
+msgid "About Classic Events"
+msgstr ""
+
+#: functions.php:259
+msgid "https://www.theclassictemplates.com/collections/best-wordpress-templates"
+msgstr ""
+
+#: functions.php:262
+msgid "https://wordpress.org/support/theme/classic-events/"
+msgstr ""
+
+#: functions.php:265
+msgid "https://wordpress.org/support/theme/classic-events/reviews/#new-post"
+msgstr ""
+
+#: functions.php:268
+msgid "https://live.theclassictemplates.com/classic-events-pro/"
+msgstr ""
+
+#: functions.php:271
+msgid "https://www.theclassictemplates.com/products/event-planner-wordpress-theme"
+msgstr ""
+
+#: functions.php:274
+msgid "https://live.theclassictemplates.com/demo/docs/classic-events-free/"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:61
+msgid "Menu"
+msgstr ""
+
+#: header.php:64
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:75
+msgid "CLOSE"
+msgstr ""
+
+#: inc/addon.php:25
+#: inc/addon.php:36
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: inc/addon.php:26
+msgid "Theme Info"
+msgstr ""
+
+#: inc/addon.php:39
+msgid "Do you want to configure this theme? Look no further, our easy-to-follow theme documentation will walk you through it."
+msgstr ""
+
+#: inc/addon.php:44
+msgid "Pro version of our theme"
+msgstr ""
+
+#: inc/addon.php:45
+msgid "Are you exited for our theme? Then we will proceed for pro version of theme."
+msgstr ""
+
+#: inc/addon.php:46
+msgid "Go To Premium"
+msgstr ""
+
+#: inc/addon.php:47
+msgid "Check all classic features"
+msgstr ""
+
+#: inc/addon.php:48
+msgid "Explore all the premium features."
+msgstr ""
+
+#: inc/addon.php:49
+#: inc/upgrade-to-pro.php:31
+msgid "Theme Page"
+msgstr ""
+
+#: inc/addon.php:52
+msgid "Need Help?"
+msgstr ""
+
+#: inc/addon.php:53
+msgid "Go to our support forum to help you out in case of queries and doubts regarding our theme."
+msgstr ""
+
+#: inc/addon.php:54
+msgid "Contact Us"
+msgstr ""
+
+#: inc/addon.php:55
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/addon.php:56
+msgid "Are you enjoying our theme? We would love to hear your feedback."
+msgstr ""
+
+#: inc/addon.php:57
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/addon.php:60
+msgid "Check Our Demo"
+msgstr ""
+
+#: inc/addon.php:61
+msgid "Here, you can view a live demonstration of our premium them."
+msgstr ""
+
+#: inc/addon.php:62
+#: inc/upgrade-to-pro.php:25
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/addon.php:63
+#: inc/upgrade-to-pro.php:33
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/addon.php:64
+msgid "Need more details? Please check our full documentation for detailed theme setup."
+msgstr ""
+
+#: inc/addon.php:65
+msgid "Documentation"
+msgstr ""
+
+#: inc/addon.php:70
+msgid "Getting started with %s"
+msgstr ""
+
+#: inc/addon.php:75
+msgid "Theme Description"
+msgstr ""
+
+#: inc/addon.php:82
+msgid "Theme Options"
+msgstr ""
+
+#: inc/addon.php:84
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+#: inc/addon.php:87
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/addon.php:88
+msgid "Checkout Premium"
+msgstr ""
+
+#: inc/addon.php:97
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+#: inc/addon.php:100
+msgid "Rate it"
+msgstr ""
+
+#: inc/addon.php:100
+msgctxt "If you like this theme, rate it"
+msgid "rate it"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Enable Site Title"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "WooCommerce Page Settings"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid " Check To Enable Shop page sidebar"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:118
+#: inc/customizer.php:157
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:119
+#: inc/customizer.php:158
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Shop Page Products Navigation"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Check To Enable Single Product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Single product Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Check To Enable Related product"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Product Img Border Radius"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Products Per Row"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Product Sale Position"
+msgstr ""
+
+#: inc/customizer.php:231
+#: inc/customizer.php:605
+#: inc/customizer.php:787
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:232
+#: inc/customizer.php:606
+#: inc/customizer.php:786
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Theme Options Panel"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Manage Site Layout Section "
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "<p class=\"sec-title\">Manage Site Layout Section</p>"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Check to Show Box Layout"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Check to Show preloader"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Manage Global Color Section"
+msgstr ""
+
+#: inc/customizer.php:292
+#: inc/customizer.php:302
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Manage Header Section"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Check To Show Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:344
+#: inc/customizer.php:483
+msgid "Add Button Text"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Add Button URL"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "SubMenu Color"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "SubMenu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Manage Slider Section"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "<p class=\"sec-title\">Manage Slider Section</p> Select Category from the Dropdowns for slider, Also use the given image dimension (405 x 395)."
+msgstr ""
+
+#: inc/customizer.php:438
+#: inc/customizer.php:538
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "Add Top Slider Text"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Select Category to display Slider"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Add Button Link"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Slider Image Height"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Add the slider image height here (eg. 600px)"
+msgstr ""
+
+#: inc/customizer.php:506
+msgid "500px"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Manage Our Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:525
+msgid "<p class=\"sec-title\">Manage Our Testimonials Section</p> Select Pages and category from the dropdown for Our Testimonials."
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Add Title"
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "Select Page to display About"
+msgstr ""
+
+#: inc/customizer.php:572
+#: inc/select/category-dropdown-custom-control.php:27
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer.php:588
+msgid "Manage Post Section"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:601
+msgid "This option work for blog page, archive page and search page."
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Full"
+msgstr ""
+
+#: inc/customizer.php:607
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:608
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:609
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Post Description Length"
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "No Content"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Excerpt Content"
+msgstr ""
+
+#: inc/customizer.php:624
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Show / Hide Blog Post Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:644
+msgid "Blog Page Image Box Shadow"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "Manage Footer Section"
+msgstr ""
+
+#: inc/customizer.php:669
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:698
+msgid "Copyright Line"
+msgstr ""
+
+#: inc/customizer.php:709
+msgid "Copyright Link"
+msgstr ""
+
+#: inc/customizer.php:723
+msgid "Coypright Color"
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "Description Color"
+msgstr ""
+
+#: inc/customizer.php:762
+msgid "List Color"
+msgstr ""
+
+#: inc/customizer.php:771
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "Scroll To Top Positions"
+msgstr ""
+
+#: inc/customizer.php:788
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:805
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:853
+msgid "Select your desired font for the headings."
+msgstr ""
+
+#: inc/customizer.php:863
+msgid "Select your desired font for the body."
+msgstr ""
+
+#: inc/upgrade-to-pro.php:23
+msgid "Upgrade Pro"
+msgstr ""
+
+#: inc/upgrade-to-pro.php:27
+msgid "Rate Us"
+msgstr ""
+
+#: inc/upgrade-to-pro.php:29
+msgid "Support Forum"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: post title
+#: no-results.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: post title
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: template-parts/post/content-audio.php:74
+#: template-parts/post/content-gallery.php:72
+#: template-parts/post/content-image.php:71
+#: template-parts/post/content-video.php:74
+#: template-parts/post/content.php:71
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:79
+#: woocommerce/myaccount/form-login.php:86
+#: woocommerce/myaccount/form-login.php:93
+msgid "Required"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
